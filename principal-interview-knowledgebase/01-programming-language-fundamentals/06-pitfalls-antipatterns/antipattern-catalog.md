@@ -1,0 +1,11 @@
+# Antipattern Catalog
+- Implicit coercion in domain logic.
+- Shared mutable singleton state.
+- Fire-and-forget async without observability.
+- Catch-and-ignore errors.
+- Overuse of `any` and type assertions.
+- Barrel files that hide cycles.
+- Deep inheritance for behavior reuse.
+- Premature micro-optimization.
+- Unbounded concurrency.
+- Closure-captured heavy objects.
