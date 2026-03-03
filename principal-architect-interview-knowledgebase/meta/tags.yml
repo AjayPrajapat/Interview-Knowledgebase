@@ -1,0 +1,10 @@
+runtime:
+  description: Runtime behavior and execution characteristics
+tradeoffs:
+  description: Explicit decision and compromise analysis
+scalability:
+  description: Throughput, latency, and growth constraints
+security:
+  description: Security design, controls, and threat mitigation
+observability:
+  description: Monitoring, tracing, logging, and SLOs
